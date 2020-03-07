@@ -51,4 +51,5 @@ set autolist
 
 alias shutadc /usr/lib/lab-script/shutDownShell
 alias cleancir /usr/lib/lab-script/hspice_cleancir.py
-alias tran_spectre_to_matlab /usr/lib/lab-script/spectre_psfascii_tran_parsing.py
+alias tran_spectre_to_matlab /usr/lib/lab-script/spectre_psfascii_tran_to_m.py
+alias tran_hspice_to_matlab /usr/lib/lab-script/hspice_tran_to_m.py
